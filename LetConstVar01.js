@@ -16,5 +16,5 @@ if (true) {
 
 //var
 var a=100
-var b="hello"
-console.log(b);
+var c="hello"
+console.log(c);
