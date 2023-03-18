@@ -12,3 +12,7 @@
    2]var is globally scoped.
    3]let can be updated but not re-declared.
    4]const can neither be updated nor be re-declared.
+
+*)Primitives & objects in JS
+--> Primitives in JS->                         7 primitive datatypes = Null,Number,Boolean,Byte,String,Symbol,Undefined.  //nn bb ss u
+--> Non primitive data types (Objects in JS)-> used to build key-value pairs.;mapping build (karu shakto).
