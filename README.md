@@ -16,3 +16,10 @@
 *)Primitives & objects in JS
 --> Primitives in JS->                         seven primitive datatypes = Null,Number,Boolean,Byte,String,Symbol,Undefined.  //nn bb ss u
 --> Non primitive data types (Objects in JS)-> used to build key-value pairs.;mapping build (karu shakto).
+
+*)Operators and Expressions in JS
+-->1]Arithmatic operator --> +,-,/,*,**,++,--,%
+   2]Assignment operstor --> =,+=,-=,*=,/=,%=,**=
+   3]Comparison operator --> ==,!=,===,!==,>,<,<=,>=,?
+   === -->not for int & string comparison
+   4]Logical operstor --> &&,||,!
