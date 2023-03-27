@@ -23,3 +23,8 @@
    3]Comparison operator --> ==,!=,===,!==,>,<,<=,>=,?
    === -->not for int & string comparison
    4]Logical operstor --> &&,||,!
+
+*)Conditional Expressions in JS
+--> 1]if
+    2]if else
+    3]if else if
