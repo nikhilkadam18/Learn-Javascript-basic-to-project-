@@ -28,3 +28,5 @@
 --> 1]if
     2]if else
     3]if else if
+    4]JS ternary operator- Evaluates a condition and executes a block of code based on the condition
+                           condition ? exp1 : exp2
