@@ -52,9 +52,20 @@
        {
           //code to be executed
        }
-   if the condition never becomes false, the loop will never end and this might crash the runtime
+   if the condition never becomes false, the loop will never end and this might crash the runtime.
  5] do while loop ->
      do{
       //code to executed
      }while(condition)
-     In do while loop one time block is executed after that condition is executed
+     In do while loop one time block is executed after that condition is executed.
+     
+ *) Functions -> A javascript function is a block of code design to perform a particular task.
+         function  fname(parameter1,parameter2)
+         {
+            //code
+         }
+         (parameters function ke ander local variables ki tarah bartav karenge)
+    arrow function -> const sum=(a,b)=>{
+                        let a+b;
+                        return c;
+                        }
