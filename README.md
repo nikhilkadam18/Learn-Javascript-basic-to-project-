@@ -47,3 +47,14 @@
        {
           //code to be executed
        }
+ 4] while loop ->
+     while(condition)
+       {
+          //code to be executed
+       }
+   if the condition never becomes false, the loop will never end and this might crash the runtime
+ 5] do while loop ->
+     do{
+      //code to executed
+     }while(condition)
+     In do while loop one time block is executed after that condition is executed
