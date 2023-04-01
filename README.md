@@ -28,5 +28,22 @@
 --> 1]if
     2]if else
     3]if else if
-    4]JS ternary operator- Evaluates a condition and executes a block of code based on the condition
-                           condition ? exp1 : exp2
+    4]JS ternary operator- Evaluates a condition and executes a block of code based on the condition.
+                             condition ? exp1 : exp2
+                             
+ *)Loops
+ 1] for loop -> loop block of code number of times.
+      for(statement1;statement2;statement3)
+      {
+           //code to be executed
+       }
+ 2] for in loop -> loops through the keys of an object
+       for(keys in object)
+       {
+          //code to be executed
+       }
+ 3] for of loop -> loop through the value of an object
+      for(keys of object)
+       {
+          //code to be executed
+       }
