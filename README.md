@@ -83,3 +83,10 @@
           -> Escape sequence character- we used \ for printing in string (invisible aste he)
                 \,\n-newline,\r-,\t
           -> we used inbuilt methods in string like toupperCase(),toLowerCase(),trim(),concat(),replace(),slice() etc...
+          
+   *)Arrays ->1] Arrays are variables which holds more than one value.
+                 Arraya are mutable they can be change.
+                 In javascript arrays are type of objects The typeof operator or arrays returns objects.
+              2] Methods in arrays-> toString(),pop(),Join(),push(),shift(),unshift(),delete(),concat()
+                  shift()- removes 1st element and returns it.
+                  unshift()- add element to the begining
