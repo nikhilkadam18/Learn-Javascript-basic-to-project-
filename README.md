@@ -69,3 +69,17 @@
                            let a+b;
                            return c;
                         }
+   
+   *)Strings -> Collection of characters. & strings are immutable
+      1] let name = "nikhil"   // we used "" or '' to declare strings.
+         indexing starts from zero in strings.
+         to find length we used ex. name.length
+      2]Template literals- template literals used backtics instead of quotes to define a string
+          ex. let name = `nikhil`
+          -> using template literals it is possible to ues single as well as double quotes inside a string.
+             ex.let sentence = `The name "is" nikhil's`
+          -> We can insert variable directly in template literal, this is called string interpolation.
+                 ex. let a = `this is ${name}`
+          -> Escape sequence character- we used \ for printing in string (invisible aste he)
+                \,\n-newline,\r-,\t
+          -> we used inbuilt methods in string like toupperCase(),toLowerCase(),trim(),concat(),replace(),slice() etc...
