@@ -87,9 +87,12 @@
    *)Arrays ->1] Arrays are variables which holds more than one value.
                  Arraya are mutable they can be change.
                  In javascript arrays are type of objects The typeof operator or arrays returns objects.
-              2] Methods in arrays-> toString(),pop(),Join(),push(),shift(),unshift(),delete(),concat(),sort()
+              2] Methods in arrays-> toString(),pop(),Join(),push(),shift(),unshift(),delete(),concat(),sort(),reverse()
                   shift()- removes 1st element and returns it.
                   unshift()- add element to the begining
                   delete()- delete that element , but length will not change.
                   sort()- alphabetically sorting, after execution change array.
                           to sort array in acending & decending order used compare function. 
+                  reverse()- used to reverse the array.
+                  splice()- (position,no. of elements to remove,elements to added)  also we can see the deleted elements & type of this array is object. (original                                  array la modify karto)
+                  slice()-(start position index,upto that index) print.
