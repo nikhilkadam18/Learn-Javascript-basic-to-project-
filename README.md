@@ -99,6 +99,9 @@
                   Array.from - used to create an array from any other object. ex.Array.from("nikhil")
                   for...of - uesd to get the values from an array.
                   for...in - uesd to get the keys from an array.
+                  map() - create a new array by performing same operations on each array element.
+                  filter() - filters an array with values that passes a test. creates a new array.
+                  reduce() method - reduce an array to a single value.
                   
                   
                   
