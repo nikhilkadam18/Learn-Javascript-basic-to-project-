@@ -96,3 +96,14 @@
                   reverse()- used to reverse the array.
                   splice()- (position,no. of elements to remove,elements to added)  also we can see the deleted elements & type of this array is object. (original                                  array la modify karto)
                   slice()-(start position index,upto that index) print.
+                  Array.from - used to create an array from any other object. ex.Array.from("nikhil")
+                  for...of - uesd to get the values from an array.
+                  for...in - uesd to get the keys from an array.
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
