@@ -4,11 +4,11 @@ console.log(3+3);
 
 let name = "nikhil";
 let age = 23
-let loggedIN = true
+let isloggedIN = true
 
 console.log(name);
 console.log(age);
-console.log(loggedIN);
+console.log(isloggedIN);
 
 
 //number
